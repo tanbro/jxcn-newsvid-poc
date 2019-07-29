@@ -18,6 +18,7 @@ dependencies:
   - matplotlib
   - pytorch
   - torchvision
+  - scikit-image
   - holoviz
   - ffmpeg>=4.0
   - opencv>=4.0
