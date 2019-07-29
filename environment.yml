@@ -1,0 +1,29 @@
+name: jxcn-newsvideo
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+  - conda-forge
+  - pyviz
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - setuptools
+  - ipython
+  - ipywidgets
+  - cudatoolkit=9.0
+  - tqdm
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - torchvision
+  - holoviz
+  - ffmpeg>=4.0
+  - opencv>=4.0
+  - pip:
+      - scenedetect>=0.5
