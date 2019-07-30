@@ -16,11 +16,13 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - requests
   - pytorch
   - torchvision
   - scikit-image
   - holoviz
   - ffmpeg>=4.0
   - opencv>=4.0
+  - python-dotenv
   - pip:
       - scenedetect>=0.5
