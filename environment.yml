@@ -1,10 +1,9 @@
-name: jxcn-newsvideo
+name: jxcn-newsvideo-poc
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
-  - pyviz
 dependencies:
   - python=3.6
   - pip
@@ -13,13 +12,15 @@ dependencies:
   - ipywidgets
   - cudatoolkit=9.0
   - tqdm
+  - requests
   - numpy
   - pandas
   - matplotlib
   - pytorch
   - torchvision
-  - holoviz
+  - scikit-image
   - ffmpeg>=4.0
   - opencv>=4.0
+  - python-dotenv
   - pip:
       - scenedetect>=0.5
