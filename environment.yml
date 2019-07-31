@@ -1,4 +1,4 @@
-name: jxcn-newsvideo
+name: jxcn-newsvideo-poc
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
