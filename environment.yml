@@ -12,11 +12,13 @@ dependencies:
   - ipywidgets
   - cudatoolkit=9.0
   - tqdm
+  - wasabi
   - requests
   - pandas
   - matplotlib
   - pytorch
   - torchvision
+  - scikit-image
   - ffmpeg
   - opencv
   - python-dotenv

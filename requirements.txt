@@ -2,7 +2,9 @@ ipython
 ipywidgets
 torch
 torchvision
+scikit-image
 tqdm
+wasabi
 requests
 pandas
 matplotlib
