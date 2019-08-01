@@ -1,0 +1,12 @@
+ipython
+ipywidgets
+torch
+torchvision
+tqdm
+requests
+pandas
+matplotlib
+opencv-python
+scenedetect
+python-dotenv
+
