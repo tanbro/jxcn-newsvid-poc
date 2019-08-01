@@ -13,14 +13,12 @@ dependencies:
   - cudatoolkit=9.0
   - tqdm
   - requests
-  - numpy
   - pandas
   - matplotlib
   - pytorch
   - torchvision
-  - scikit-image
-  - ffmpeg>=4.0
-  - opencv>=4.0
+  - ffmpeg
+  - opencv
   - python-dotenv
   - pip:
-      - scenedetect>=0.5
+      - scenedetect
