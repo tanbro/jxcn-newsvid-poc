@@ -711,7 +711,11 @@ Temporary Items
 [Dd]ata/
 [Oo]ut/
 [Tt][e]mp/
-[Ll]og[s]/
-[Mm]odel[s]/
-[Vv]ideo[s]]/
-!/[Ss]cript[s]/
+[Ll]og/
+[Ll]ogs/
+[Mm]odel/
+[Mm]odels/
+[Vv]ideo/
+[Vv]ideos/
+!/[Ss]cript/
+!/[Ss]cripts/
