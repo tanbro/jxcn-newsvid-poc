@@ -1,3 +1,5 @@
-# jxcn-newvideo-poc
+# jxcn-newsvid-poc
 
-大江网新闻视频处理 POC
+某省宣传部新闻视频AI处理POC.
+
+该 POC 用于评估进行地方新闻的切片，聚类，人物，场景，播报文字识别，字幕标题提取等的可能性。
